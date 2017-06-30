@@ -43,7 +43,7 @@ The pieces are as follows:
   
 - __N__: **Keima** (桂馬), or Kei (桂). This translates into 'Cassia Horse'.
 
-  It jumps like the knight in western chess, however it cannot move sideways or backwards, and only forwards.
+  It jumps like the knight in western chess, however it cannot move sideways or backwards, only forwards.
   
   The Keima must promote if it reaches the back two ranks and cannot be dropped on those.
   
@@ -73,7 +73,7 @@ The pieces are as follows:
   
   It acts the same as the bishop in western chess.
 
-  __+B__: When promoted, the Kakugyou becomes the **Ryuuma** (龍馬), shortened to **Uma** (馬).
+  __+B__: When promoted, the Kakugyou becomes the **Ryuuma** (龍馬), shortened to **Uma** (馬). This is translated as 'Dragon Horse'.
 
   The Ryuuma can moves like the **Kakugyou**, but it also gains the ability to move one step vertically or horizontally.
 
